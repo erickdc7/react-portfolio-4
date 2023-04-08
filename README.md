@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# React Portfolio 04
+This design is inspired by this [video](https://youtu.be/Hps-XPN1GeE), which belongs to [Cristian Mihai](https://www.youtube.com/@cristianmihai01).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Technologies
+This web page was made with the following technologies:
+- HTML5
+- CSS3
+- JavaScript
+- React
+- React Icons
+- React Type Animation
+- React Scroll
+- React Countup
+- React Intersection Observer
+- Framer Motion
+- Tailwind CSS
 
-## Available Scripts
+## Pages
+This web page contains 5 sections: **Banner**, **About**, **Services**, **Work** and **Contact**.
 
-In the project directory, you can run:
+### Banner
+#### In this section you will see the title of the web page, an interactive subtitle, a brief description and a button that directs you to the contact section and another button that directs you to the portfolio section, below you will see some links to different social networks. And on the right side, an image.
+![preview home section](src/assets/preview-1.png)
 
-### `npm start`
+### About
+#### In this section, you'll see the section title, a subtitle, and a description. In addition, you will see the years of experience, the number of projects carried out and satisfied customers. You will also see a button that directs you to the contact section and another to the portfolio section.
+![preview services section](src/assets/preview-2.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Services
+#### In this section, you will see a section title and a subtitle. Also on the right hand side you will see a list of services that are offered.
+![preview who section](src/assets/preview-3.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Work
+#### In this section you can see all the projects that have been carried out. Each project has a title and the area to which it belongs.
+![preview contact section 1](src/assets/preview-4.png)
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Contact
+#### In this section you can see a form where you can enter your name, email and the message you want to send. The form is not functional.
+![preview contact section 1](src/assets/preview-5.png)
