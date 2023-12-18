@@ -1,5 +1,5 @@
 # React Portfolio 04
-This design is inspired by this [video](https://youtu.be/Hps-XPN1GeE), which belongs to [Cristian Mihai](https://www.youtube.com/@cristianmihai01).
+This design is inspired by the work of [Cristian Mihai](https://www.youtube.com/@cristianmihai01). Click [here](https://youtu.be/Hps-XPN1GeE) to watch the video.
 
 ## Technologies
 This web page was made with the following technologies:
